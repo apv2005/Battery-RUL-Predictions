@@ -1,7 +1,7 @@
 # Battery-RUL-Predictions
 ## Overview
 The notebook performs the following functions:
- **Data Exploration & Cleaning:** Uses Pandas, NumPy, and visualization libraries such as Matplotlib, Seaborn, and Plotly to perform exploratory data analysis and clean the battery dataset.
+ - **Data Exploration & Cleaning:** Uses Pandas, NumPy, and visualization libraries such as Matplotlib, Seaborn, and Plotly to perform exploratory data analysis and clean the battery dataset.
 - **Feature Engineering:** Prepares the data for modeling by selecting relevant features and applying transformations.
 - **Modeling:** Experiments with multiple machine learning algorithms including:
   - Linear Regression
